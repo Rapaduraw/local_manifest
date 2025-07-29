@@ -12,9 +12,8 @@
     <project path="frameworks/av" name="TeamHackLG/android_frameworks_av" revision="cm-10.2" />
     <project path="packages/apps/SoundRecorder" name="TeamHackLG/android_packages_apps_SoundRecorder" revision="cm-10.2" />
     <project path="device/lge/msm7x27a-common" name="TeamHackLG/android_device_lge_msm7x27a-common" revision="cm-10.2" />
-    <project path="device/lge/e610" name="TeamHackLG/android_device_lge_e610" revision="cm-10.2" />
-    <project path="device/lge/p700" name="TeamHackLG/android_device_lge_p700" revision="cm-10.2" />
-    <project path="kernel/lge/msm7x27a-common" name="TeamHackLG/lge-kernel-lproj" revision="android-msm-3.4-jb4.3" />
-    <project path="vendor/lge" name="TeamHackLG/proprietary_vendor_lge" revision="cm-10.2" remote="github"/>
+    <project path="device/lge/e425" name="Rapaduraw/android_device_lge_e425" revision="cm-10.2" />
+    <project path="kernel/lge/msm7x27a-common" name="Rapaduraw/BlobKernel-JB-Vee3" revision="master" />
+    <project path="vendor/lge" name="Rapaduraw/android_vendor_lge_e425" revision="master" remote="github"/>
  
 </manifest>
